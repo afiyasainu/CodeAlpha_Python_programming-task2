@@ -7,8 +7,11 @@ Customizable Conversations: Modify or add new conversation pairs easily.
 Interactive Chat: The chatbot interacts with the user in real time and terminates when "quit" is typed.
 
 Usage:
+
 Install the NLTK library:pip install nltk
+
 Run the script:python chatbot.py
+
 Type "quit" to exit the chat.
 
 
